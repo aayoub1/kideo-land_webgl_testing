@@ -61,7 +61,7 @@
     <type fullname="CoinsCounter" preserve="all" />
     <type fullname="ColorsLibrary" preserve="all" />
     <type fullname="com.kideo.gameinfra.controls.MultiValueToggle" preserve="all" />
-    <type fullname="com.kideo.gameinfra.Dialogue.AIDialogueController" preserve="all" />
+    <type fullname="com.kideo.gameinfra.Dialogue.AIDialogueSceneController" preserve="all" />
     <type fullname="com.kideo.gameinfra.Dialogue.AIDialoguesRepository" preserve="all" />
     <type fullname="com.kideo.gameinfra.Dialogue.CharacterCard" preserve="all" />
     <type fullname="com.kideo.gameinfra.Dialogue.DialogueEntry" preserve="all" />
@@ -178,6 +178,7 @@
     <type fullname="com.kideo.learn.english.MemoryActivityManagerScript" preserve="all" />
     <type fullname="com.kideo.learn.english.MoleActivityManager" preserve="all" />
     <type fullname="com.kideo.learn.english.NewBubblesAreaHandler" preserve="all" />
+    <type fullname="com.kideo.learn.english.NewMap.UILevelTether" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMemoryCardsPositioner" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMemoryGameManager" preserve="all" />
     <type fullname="com.kideo.learn.english.ObjectPatrol" preserve="all" />
@@ -778,6 +779,7 @@
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
     <type fullname="UnityEngine.AddressableAssets.AssetReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.AddressableAssets.AssetReferenceGameObject" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Localization.Components.LocalizeStringEvent" preserve="all" />
