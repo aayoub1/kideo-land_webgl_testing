@@ -565,6 +565,7 @@
     <type fullname="UnscrambleOpenningScene" preserve="all" />
     <type fullname="UnscrambleQuiz" preserve="all" />
     <type fullname="UnscrambleQuizManagment" preserve="all" />
+    <type fullname="UserAwardCollection" preserve="all" />
     <type fullname="UserData" preserve="all" />
     <type fullname="UserEnglishLevelDescription" preserve="all" />
     <type fullname="VoiceRecoginitionResultsView" preserve="all" />
@@ -655,6 +656,8 @@
     <type fullname="LocalizedSpriteInfo" preserve="nothing" serialized="true" />
     <type fullname="SpriteInfo" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.SubTaskAnswer" preserve="nothing" serialized="true" />
+    <type fullname="AwardTypeInfo" preserve="nothing" serialized="true" />
+    <type fullname="DailyGameTitle" preserve="nothing" serialized="true" />
     <type fullname="NamedSound" preserve="nothing" serialized="true" />
     <type fullname="AnimatorInfo" preserve="nothing" serialized="true" />
     <type fullname="CharacterData" preserve="nothing" serialized="true" />
