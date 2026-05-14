@@ -22,12 +22,12 @@
     <type fullname="AutoSizeLayoutScrollFlow" preserve="all" />
     <type fullname="AvatarBuilder" preserve="all" />
     <type fullname="AvatarBuilderEffectController" preserve="all" />
-    <type fullname="AvatarDrag" preserve="all" />
     <type fullname="BackgroundMusic" preserve="all" />
     <type fullname="BalloonMovement" preserve="all" />
     <type fullname="Base.CameraFitter.CameraSmartFitter" preserve="all" />
     <type fullname="BasicPopup" preserve="all" />
     <type fullname="Bird" preserve="all" />
+    <type fullname="BlankFieldHelper" preserve="all" />
     <type fullname="Board" preserve="all" />
     <type fullname="Boundry" preserve="all" />
     <type fullname="BubbleHandler" preserve="all" />
@@ -37,6 +37,7 @@
     <type fullname="CameraViewportHandler" preserve="all" />
     <type fullname="CanvasHandler" preserve="all" />
     <type fullname="CardHandler1" preserve="all" />
+    <type fullname="CardTask" preserve="all" />
     <type fullname="CFX_AutoDestructShuriken" preserve="all" />
     <type fullname="CFX_LightIntensityFade" preserve="all" />
     <type fullname="ChangeSortingGroupOrder" preserve="all" />
@@ -122,6 +123,9 @@
     <type fullname="com.kideo.learn.english.DragHandler" preserve="all" />
     <type fullname="com.kideo.learn.english.EnglishFishermanActivityScene" preserve="all" />
     <type fullname="com.kideo.learn.english.EnglishTurtleIslandActivityScene" preserve="all" />
+    <type fullname="com.kideo.learn.english.Events.EventCard" preserve="all" />
+    <type fullname="com.kideo.learn.english.Events.EventsSceneController" preserve="all" />
+    <type fullname="com.kideo.learn.english.Events.EventTopLayer" preserve="all" />
     <type fullname="com.kideo.learn.english.Feedback.FeedbackPopup" preserve="all" />
     <type fullname="com.kideo.learn.english.Feedback.FeedbackResultsRow" preserve="all" />
     <type fullname="com.kideo.learn.english.FeedbackHandler" preserve="all" />
@@ -178,6 +182,7 @@
     <type fullname="com.kideo.learn.english.MemoryActivityManagerScript" preserve="all" />
     <type fullname="com.kideo.learn.english.MoleActivityManager" preserve="all" />
     <type fullname="com.kideo.learn.english.NewBubblesAreaHandler" preserve="all" />
+    <type fullname="com.kideo.learn.english.NewMap.EventMapController" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMap.UILevelTether" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMemoryCardsPositioner" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMemoryGameManager" preserve="all" />
@@ -272,6 +277,7 @@
     <type fullname="DailyLeaderboardTab" preserve="all" />
     <type fullname="DailyLeaderboardUIController" preserve="all" />
     <type fullname="DeliveryTruckManager" preserve="all" />
+    <type fullname="DescriptionSubtask" preserve="all" />
     <type fullname="DescriptionTask" preserve="all" />
     <type fullname="DevTestToolController" preserve="all" />
     <type fullname="DialogueEntry" preserve="all" />
@@ -279,12 +285,15 @@
     <type fullname="DialogueMapIcon" preserve="all" />
     <type fullname="DialoguePanel" preserve="all" />
     <type fullname="DialogueSelectionButton" preserve="all" />
+    <type fullname="DocumentSubtask" preserve="all" />
     <type fullname="DragDrop" preserve="all" />
     <type fullname="DragonflyAnimation" preserve="all" />
     <type fullname="DynamicGrid" preserve="all" />
+    <type fullname="DynamicSplitViewText" preserve="all" />
     <type fullname="EggController" preserve="all" />
     <type fullname="EmailSignup" preserve="all" />
     <type fullname="EntranceEffect" preserve="all" />
+    <type fullname="EventAssetsRepo" preserve="all" />
     <type fullname="ExtraWordEntryNew" preserve="all" />
     <type fullname="ExtraWordsHandlerNew" preserve="all" />
     <type fullname="FailureFeedbackPopup" preserve="all" />
@@ -321,6 +330,7 @@
     <type fullname="HelpPopUpHandler" preserve="all" />
     <type fullname="HorizontalLayoutLangHandler" preserve="all" />
     <type fullname="ImagePulser" preserve="all" />
+    <type fullname="ImageSubtask" preserve="all" />
     <type fullname="IndieStudio.EnglishTracingBook.Game.AudioSources" preserve="all" />
     <type fullname="IndieStudio.EnglishTracingBook.Game.BlackArea" preserve="all" />
     <type fullname="IndieStudio.EnglishTracingBook.Game.Booster" preserve="all" />
@@ -398,6 +408,7 @@
     <type fullname="LBActivityIcon" preserve="all" />
     <type fullname="LBLevelsCompletionController" preserve="all" />
     <type fullname="LBTestIcon" preserve="all" />
+    <type fullname="LeaderboardController" preserve="all" />
     <type fullname="LeafSettings" preserve="all" />
     <type fullname="LenearLifeScript" preserve="all" />
     <type fullname="LetterController" preserve="all" />
@@ -412,6 +423,7 @@
     <type fullname="ManageSpriteScale" preserve="all" />
     <type fullname="Map" preserve="all" />
     <type fullname="MapCharacterController" preserve="all" />
+    <type fullname="MapPool" preserve="all" />
     <type fullname="MenuPanel" preserve="all" />
     <type fullname="MoleController" preserve="all" />
     <type fullname="MonkeyPartClick" preserve="all" />
@@ -419,6 +431,7 @@
     <type fullname="MoveLeaf" preserve="all" />
     <type fullname="MovingBoards" preserve="all" />
     <type fullname="MultipleChoicesTask" preserve="all" />
+    <type fullname="MultipleChoiceSubtask" preserve="all" />
     <type fullname="NewClickableKeyboard" preserve="all" />
     <type fullname="NewLoginController" preserve="all" />
     <type fullname="NewLoginTransitionController" preserve="all" />
@@ -432,6 +445,7 @@
     <type fullname="OrthographicCameraScript" preserve="all" />
     <type fullname="PackageController" preserve="all" />
     <type fullname="PackagesToggleSelection" preserve="all" />
+    <type fullname="PageNumber" preserve="all" />
     <type fullname="PanAndZoom" preserve="all" />
     <type fullname="ParashootAreaHandler" preserve="all" />
     <type fullname="ParashootFaces" preserve="all" />
@@ -442,7 +456,6 @@
     <type fullname="PlatformSpecificControl" preserve="all" />
     <type fullname="PlayerController" preserve="all" />
     <type fullname="PlayerInfoPanel" preserve="all" />
-    <type fullname="PlayerMovement" preserve="all" />
     <type fullname="PlayersTableController" preserve="all" />
     <type fullname="Podium" preserve="all" />
     <type fullname="PointsOrderingPositioner" preserve="all" />
@@ -461,7 +474,6 @@
     <type fullname="ProgressBarWithMarkers" preserve="all" />
     <type fullname="PuzzlePiece" preserve="all" />
     <type fullname="RaceRoute" preserve="all" />
-    <type fullname="Raft" preserve="all" />
     <type fullname="Randomize_Animation_Starting_Time" preserve="all" />
     <type fullname="ReadingComprehensionMapIcon" preserve="all" />
     <type fullname="RegionToggle" preserve="all" />
@@ -494,13 +506,11 @@
     <type fullname="SetPlayerPrefsParameter" preserve="all" />
     <type fullname="SettingsPopupController" preserve="all" />
     <type fullname="ShakeScript" preserve="all" />
-    <type fullname="SharkFollowPlayer" preserve="all" />
-    <type fullname="SharkNavigation" preserve="all" />
     <type fullname="SharksGamePlay" preserve="all" />
     <type fullname="SharksManagement" preserve="all" />
     <type fullname="SharksMap" preserve="all" />
     <type fullname="SharksMapManager" preserve="all" />
-    <type fullname="SharksRandomMovement" preserve="all" />
+    <type fullname="SharkTrap" preserve="all" />
     <type fullname="ShopLocalization" preserve="all" />
     <type fullname="ShopSpritesInfo" preserve="all" />
     <type fullname="ShuffledContextQuestion" preserve="all" />
@@ -524,13 +534,20 @@
     <type fullname="StartSceneButtonsHandler" preserve="all" />
     <type fullname="StartSceneController" preserve="all" />
     <type fullname="SubscriptionButtonsController" preserve="all" />
+    <type fullname="SubTaskFeedback" preserve="all" />
+    <type fullname="SubtaskLayoutConfig" preserve="all" />
+    <type fullname="SubtasksBuilder" preserve="all" />
+    <type fullname="TaskLayoutManager" preserve="all" />
+    <type fullname="TaskNavigationBar" preserve="all" />
     <type fullname="TaskSubmitButton" preserve="all" />
+    <type fullname="TaskWorkflowController" preserve="all" />
     <type fullname="TestGameScript" preserve="all" />
     <type fullname="TestMapIcon" preserve="all" />
     <type fullname="TestScoreEntery" preserve="all" />
     <type fullname="TestsScoreFeedback" preserve="all" />
     <type fullname="TetrisAnimationManager" preserve="all" />
     <type fullname="TextMeshProOrdering" preserve="all" />
+    <type fullname="TextSubtask" preserve="all" />
     <type fullname="TextToggle" preserve="all" />
     <type fullname="Tile" preserve="all" />
     <type fullname="TileData" preserve="all" />
@@ -538,6 +555,7 @@
     <type fullname="TMProWordPanel" preserve="all" />
     <type fullname="ToggleButtonGroup" preserve="all" />
     <type fullname="ToggleHandler" preserve="all" />
+    <type fullname="ToggleHandlerNew" preserve="all" />
     <type fullname="TosteButton" preserve="all" />
     <type fullname="TournamentInfoSlot" preserve="all" />
     <type fullname="TournamentLevel" preserve="all" />
@@ -557,6 +575,7 @@
     <type fullname="UIHandler" preserve="all" />
     <type fullname="UIRefData" preserve="all" />
     <type fullname="UIRefHandler" preserve="all" />
+    <type fullname="UITaskSelection" preserve="all" />
     <type fullname="UnitTest" preserve="all" />
     <type fullname="UnityEngine.UI.Extensions.RadialLayout" preserve="all" />
     <type fullname="UnityEngine.UI.LetterSpacing" preserve="all" />
@@ -568,9 +587,12 @@
     <type fullname="UserAwardCollection" preserve="all" />
     <type fullname="UserData" preserve="all" />
     <type fullname="UserEnglishLevelDescription" preserve="all" />
+    <type fullname="VerticalCardCarousel" preserve="all" />
+    <type fullname="VoiceControl" preserve="all" />
     <type fullname="VoiceRecoginitionResultsView" preserve="all" />
     <type fullname="VoiceRecognition" preserve="all" />
     <type fullname="VoiceRecognitionTuningLayer" preserve="all" />
+    <type fullname="VoiceSubtask" preserve="all" />
     <type fullname="VTActivitySlot" preserve="all" />
     <type fullname="VTWordConnectGenerator" preserve="all" />
     <type fullname="WavesMovement" preserve="all" />
@@ -604,6 +626,7 @@
     <type fullname="IslandGroup" preserve="nothing" serialized="true" />
     <type fullname="ObjectGroup" preserve="nothing" serialized="true" />
     <type fullname="ThirdActivityInfo" preserve="nothing" serialized="true" />
+    <type fullname="SceneNavigator/SceneId" preserve="nothing" serialized="true" />
     <type fullname="Cloud" preserve="nothing" serialized="true" />
     <type fullname="KaelmixStudioGameAssets.TemplateWordGuess.DataCurrency/HINT_TYPE" preserve="nothing" serialized="true" />
     <type fullname="KaelmixStudioGameAssets.TemplateWordGuess.DataCurrency/HintType" preserve="nothing" serialized="true" />
@@ -622,13 +645,13 @@
     <type fullname="DailyGameIcon" preserve="nothing" serialized="true" />
     <type fullname="GameInfra.LeaderBoard.LBRequest" preserve="nothing" serialized="true" />
     <type fullname="GameInfra.LeaderBoard.LBTab" preserve="nothing" serialized="true" />
-    <type fullname="SceneNavigator/SceneId" preserve="nothing" serialized="true" />
     <type fullname="IndieStudio.EnglishTracingBook.Game.ShapesManager/Shape" preserve="nothing" serialized="true" />
     <type fullname="LetterAsset" preserve="nothing" serialized="true" />
     <type fullname="LetterDisplayColors" preserve="nothing" serialized="true" />
     <type fullname="LettersDisplaySetting" preserve="nothing" serialized="true" />
     <type fullname="ShapeOptions" preserve="nothing" serialized="true" />
     <type fullname="com.kideo.learn.english.LettersSliderTracingRound/TexturesData" preserve="nothing" serialized="true" />
+    <type fullname="MapUIPadding" preserve="nothing" serialized="true" />
     <type fullname="KKSpeech.SpeechRecognizerListener/AuthorizationCallback" preserve="nothing" serialized="true" />
     <type fullname="KKSpeech.SpeechRecognizerListener/AvailabilityCallback" preserve="nothing" serialized="true" />
     <type fullname="KKSpeech.SpeechRecognizerListener/ErrorCallback" preserve="nothing" serialized="true" />
@@ -687,7 +710,6 @@
     <type fullname="AstarPath" preserve="all" />
     <type fullname="Pathfinding.AIDestinationSetter" preserve="all" />
     <type fullname="Pathfinding.AIPath" preserve="all" />
-    <type fullname="Pathfinding.FunnelModifier" preserve="all" />
     <type fullname="Pathfinding.Seeker" preserve="all" />
     <type fullname="Pathfinding.AstarColor" preserve="nothing" serialized="true" />
     <type fullname="Pathfinding.AstarData" preserve="nothing" serialized="true" />
@@ -831,6 +853,11 @@
     <type fullname="TMPro.TMP_InputField" preserve="all" />
     <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
     <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
     <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
@@ -840,11 +867,6 @@
     <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
@@ -887,7 +909,6 @@
     <type fullname="UnityEngine.LightmapSettings" preserve="all" />
     <type fullname="UnityEngine.LineRenderer" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
-    <type fullname="UnityEngine.Mesh" preserve="all" />
     <type fullname="UnityEngine.MeshFilter" preserve="all" />
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
     <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
@@ -932,7 +953,6 @@
     <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
     <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
     <type fullname="UnityEngine.EdgeCollider2D" preserve="all" />
-    <type fullname="UnityEngine.FixedJoint2D" preserve="all" />
     <type fullname="UnityEngine.PhysicsMaterial2D" preserve="all" />
     <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
     <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
@@ -991,8 +1011,8 @@
     <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Dropdown/OptionData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Dropdown/OptionDataList" preserve="nothing" serialized="true" />
