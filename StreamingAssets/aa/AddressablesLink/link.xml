@@ -18,6 +18,9 @@
     <type fullname="animationTargetScript" preserve="all" />
     <type fullname="AppVersion" preserve="all" />
     <type fullname="Assets.Activities.CrossWords.Scripts.ActivityManager" preserve="all" />
+    <type fullname="Audiobook" preserve="all" />
+    <type fullname="AudiobookPage" preserve="all" />
+    <type fullname="AudiobookParagraph" preserve="all" />
     <type fullname="AuthLoginButton" preserve="all" />
     <type fullname="AutoSizeLayoutScrollFlow" preserve="all" />
     <type fullname="AvatarBuilder" preserve="all" />
@@ -61,6 +64,13 @@
     <type fullname="CloudsManager" preserve="all" />
     <type fullname="CoinsCounter" preserve="all" />
     <type fullname="ColorsLibrary" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookBookCategoryToggle" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookBookPreviewPanel" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookLibraryCard" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookLibraryController" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookPlayer" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookPlayerControlsPanel" preserve="all" />
+    <type fullname="com.kideo.audiobook.AudiobookRepo" preserve="all" />
     <type fullname="com.kideo.gameinfra.controls.MultiValueToggle" preserve="all" />
     <type fullname="com.kideo.gameinfra.Dialogue.AIDialogueSceneController" preserve="all" />
     <type fullname="com.kideo.gameinfra.Dialogue.AIDialoguesRepository" preserve="all" />
@@ -123,9 +133,6 @@
     <type fullname="com.kideo.learn.english.DragHandler" preserve="all" />
     <type fullname="com.kideo.learn.english.EnglishFishermanActivityScene" preserve="all" />
     <type fullname="com.kideo.learn.english.EnglishTurtleIslandActivityScene" preserve="all" />
-    <type fullname="com.kideo.learn.english.Events.EventCard" preserve="all" />
-    <type fullname="com.kideo.learn.english.Events.EventsSceneController" preserve="all" />
-    <type fullname="com.kideo.learn.english.Events.EventTopLayer" preserve="all" />
     <type fullname="com.kideo.learn.english.Feedback.FeedbackPopup" preserve="all" />
     <type fullname="com.kideo.learn.english.Feedback.FeedbackResultsRow" preserve="all" />
     <type fullname="com.kideo.learn.english.FeedbackHandler" preserve="all" />
@@ -182,7 +189,6 @@
     <type fullname="com.kideo.learn.english.MemoryActivityManagerScript" preserve="all" />
     <type fullname="com.kideo.learn.english.MoleActivityManager" preserve="all" />
     <type fullname="com.kideo.learn.english.NewBubblesAreaHandler" preserve="all" />
-    <type fullname="com.kideo.learn.english.NewMap.EventMapController" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMap.UILevelTether" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMemoryCardsPositioner" preserve="all" />
     <type fullname="com.kideo.learn.english.NewMemoryGameManager" preserve="all" />
@@ -293,7 +299,6 @@
     <type fullname="EggController" preserve="all" />
     <type fullname="EmailSignup" preserve="all" />
     <type fullname="EntranceEffect" preserve="all" />
-    <type fullname="EventAssetsRepo" preserve="all" />
     <type fullname="ExtraWordEntryNew" preserve="all" />
     <type fullname="ExtraWordsHandlerNew" preserve="all" />
     <type fullname="FailureFeedbackPopup" preserve="all" />
@@ -408,7 +413,6 @@
     <type fullname="LBActivityIcon" preserve="all" />
     <type fullname="LBLevelsCompletionController" preserve="all" />
     <type fullname="LBTestIcon" preserve="all" />
-    <type fullname="LeaderboardController" preserve="all" />
     <type fullname="LeafSettings" preserve="all" />
     <type fullname="LenearLifeScript" preserve="all" />
     <type fullname="LetterController" preserve="all" />
@@ -556,6 +560,7 @@
     <type fullname="ToggleButtonGroup" preserve="all" />
     <type fullname="ToggleHandler" preserve="all" />
     <type fullname="ToggleHandlerNew" preserve="all" />
+    <type fullname="ToggleTextColor" preserve="all" />
     <type fullname="TosteButton" preserve="all" />
     <type fullname="TournamentInfoSlot" preserve="all" />
     <type fullname="TournamentLevel" preserve="all" />
@@ -563,7 +568,6 @@
     <type fullname="TournamentScoreCounter" preserve="all" />
     <type fullname="TournamentSelectionCanvas" preserve="all" />
     <type fullname="TournamentSummaryPanel" preserve="all" />
-    <type fullname="TournamentTopLayer" preserve="all" />
     <type fullname="TransformOffset" preserve="all" />
     <type fullname="TreasureIslandCategorySummary" preserve="all" />
     <type fullname="TriStateButton" preserve="all" />
@@ -587,7 +591,6 @@
     <type fullname="UserAwardCollection" preserve="all" />
     <type fullname="UserData" preserve="all" />
     <type fullname="UserEnglishLevelDescription" preserve="all" />
-    <type fullname="VerticalCardCarousel" preserve="all" />
     <type fullname="VoiceControl" preserve="all" />
     <type fullname="VoiceRecoginitionResultsView" preserve="all" />
     <type fullname="VoiceRecognition" preserve="all" />
@@ -645,6 +648,7 @@
     <type fullname="DailyGameIcon" preserve="nothing" serialized="true" />
     <type fullname="GameInfra.LeaderBoard.LBRequest" preserve="nothing" serialized="true" />
     <type fullname="GameInfra.LeaderBoard.LBTab" preserve="nothing" serialized="true" />
+    <type fullname="com.kideo.audiobook.AudiobookData" preserve="nothing" serialized="true" />
     <type fullname="IndieStudio.EnglishTracingBook.Game.ShapesManager/Shape" preserve="nothing" serialized="true" />
     <type fullname="LetterAsset" preserve="nothing" serialized="true" />
     <type fullname="LetterDisplayColors" preserve="nothing" serialized="true" />
