@@ -441,6 +441,7 @@
     <type fullname="KaelmixStudioGameAssets.TemplateWordGuess.ThemeManager" preserve="all" />
     <type fullname="KeyboardShiftButton" preserve="all" />
     <type fullname="KideoLandMapController" preserve="all" />
+    <type fullname="KideoLandPodiumFooting" preserve="all" />
     <type fullname="KideoLandStartSceneController" preserve="all" />
     <type fullname="KKSpeech.SpeechRecognizerListener" preserve="all" />
     <type fullname="LandingPageController" preserve="all" />
