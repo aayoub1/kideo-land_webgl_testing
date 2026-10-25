@@ -6,12 +6,12 @@
     <title>Unity WebGL Player | Kideo Land</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
- 
-<script src="https://unpkg.com/mic-recorder-to-mp3@2.2.1/dist/index.min.js"></script>
- 
+  
     <!-- MICROPHONE PRO START -->
     <script src='./microphone.js'></script>
     <!-- MICROPHONE PRO END -->
+<script src="https://unpkg.com/mic-recorder-to-mp3@2.2.1/dist/index.min.js"></script>
+
 </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -65,11 +65,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/web_kl_3.0.8.loader.js";
+      var loaderUrl = buildUrl + "/WebGL.loader.js";
       var config = {
-        dataUrl: buildUrl + "/web_kl_3.0.8.data.unityweb",
-        frameworkUrl: buildUrl + "/web_kl_3.0.8.framework.js.unityweb",
-        codeUrl: buildUrl + "/web_kl_3.0.8.wasm.unityweb",
+        dataUrl: buildUrl + "/WebGL.data.unityweb",
+        frameworkUrl: buildUrl + "/WebGL.framework.js.unityweb",
+        codeUrl: buildUrl + "/WebGL.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Kideo Tech",
         productName: "Kideo Land",
